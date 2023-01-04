@@ -26,3 +26,9 @@ git push -u origin master
 git rm --cached -r .
 
 git clone link // to clone a GitHub repositry
+
+
+git branch branchName
+
+git branch // to check all the branch and * shows the working branch
+git checkout branchName // to go to that branch
