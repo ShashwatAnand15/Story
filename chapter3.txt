@@ -32,3 +32,5 @@ git branch branchName
 
 git branch // to check all the branch and * shows the working branch
 git checkout branchName // to go to that branch
+
+git merge branchName // to merge the branch
