@@ -1,1 +1,28 @@
-It was age of wisdom and happiness.
+
+
+//to make local repositry(.git)
+
+git init // to initialise the git
+git status // to check the status of files
+git add filename or git add .
+git commit -m "comment"
+
+
+git log // to check for the log of the data
+git diff filename // shows us the difference between that file in current and previous version.
+git checkout chapter3.txt //
+
+
+
+
+
+
+// to make a github repositry(GitHub)
+
+git remote add origin link address
+git push -u origin master
+
+// to delete files from staging area
+git rm --cached -r .
+
+git clone link // to clone a GitHub repositry
